@@ -48,6 +48,7 @@
 - [Architecture of a Database System](database/fntdb07-architecture.pdf)
 - [Apache-Calcite](database/Apache-Calcite.pdf)
 - [DBLogA Watermark Based Change-Data-Capture Framework](database/DBLog-A-Watermark-Based-Change-Data-Capture-Framework.pdf)
+- [The Design and Implementation of a Log-Structured File System](database/LFS.pdf)
 
 ## MicroService
 
